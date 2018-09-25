@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>srinu</servlet-name>
+<servlet-class>button</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>srinu</servlet-name>
+<url-pattern>/seproject</url-pattern>
+</servlet-mapping>
+</web-app>
